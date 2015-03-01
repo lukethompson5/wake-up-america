@@ -2,8 +2,10 @@ var dictionary={
 	"replacements": {
 		"Michelle Obama" : "MOOCHelle Obimbo",
 		"Affordable Care Act" : "Obongocare",
-		"Obamacare" : "Owebamacare"
+		"born" : "spawned",
+		"Obamacare" : "Owebamacare",
 		"Barack" : "Hussein",
+		"LGBT" : "homos and trannies",
 		"Obama" : "Obummer",
 		"Muslim" : "mooSLIME",
 		"Muslims" : "Muzzies",
