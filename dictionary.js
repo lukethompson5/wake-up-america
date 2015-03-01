@@ -10,12 +10,14 @@ var dictionary={
 		"Black" : "Thug",
 		"Obamas" : "Obozos",
 		"gay" : "F@@got",
+		"lesbian" : "carpet licker"
 		"homosexual" : "deviant g@y pervert"
 		"African" : "n**ger",
 		"chiropractor" : "chiroquacker",
 		"chiropractor" : "chiroquackers",
 		"Congress" : "criminals in Congress",
 		"immigration" : "Illegals taking our JOBS",
+		"immigrants" : "job thieves",
 		"Democrat" : "Demoncrap",
 		"Democratic" : "Demoncrapic",
 		"Hispanic" : "beaner",
@@ -38,6 +40,16 @@ var dictionary={
 		"conservative" : "conservitard",
 		"mosque" : "terrorist training ground",
 		"Iraqi" : "Towelhead",
-		"Iraq" : "The Sandbox"
+		"Iraq" : "The Sandbox",
+		"marijuana" : "the Devil's lettuce",
+		"woman" : "sentient uterus",
+		"minorities" : "blights to american society",
+		"healthcare" : "socialist crap",
+		"welfare" : "socialist crap",
+		"rapper" : "hooligan",
+		"police" : "communist pigs",
+		"free" : "government handount",
+		"msnbc" : "the liberal media"
+		
 	},
 };
