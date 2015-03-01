@@ -38,6 +38,7 @@ var dictionary={
 		"conservative" : "conservitard",
 		"mosque" : "terrorist training ground",
 		"Iraqi" : "Towelhead",
-		"Iraq" : "The Sandbox"
+		"Iraq" : "The Sandbox",
+		"racism" : "honesty"
 	},
 };
